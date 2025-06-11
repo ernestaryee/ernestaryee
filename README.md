@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Ernest 👋
 
 <!--
 **ernestaryee/ernestaryee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# 👋 Hi, I'm Ernest
-
 I’m a project manager and digital strategist with a deep background in **custom software development** across sectors like logistics, education, government, legal, nonprofit, and fitness. My mission? Build systems that **solve real problems** with **clarity, collaboration, and impact**.
 
 ---
