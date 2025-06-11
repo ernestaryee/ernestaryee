@@ -1,19 +1,5 @@
 ## Hi there, I'm Ernest 👋
 
-<!--
-**ernestaryee/ernestaryee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 I am a project manager and digital strategist with a deep background in **custom software development** across sectors like logistics, education, government, legal, nonprofit, and fitness. My mission? Build systems that **solve real problems** with **clarity, collaboration, and impact**.
 
 ---
@@ -35,9 +21,36 @@ If you’re building software that needs to **work the first time**, **scale int
 ## 🔗 Let’s Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ernestaryee/)
-- ✉️ [Email Me](mailto:ernestaryee11@gmail.com)
+- ✉️ ernestaryee11@gmail.com [Email Me](mailto:ernestaryee11@gmail.com)
 
 ---
+
+## 🛠️ Tech & Tools I Work With
+
+### 🧩 Project Management & Collaboration
+
+* Jira · Trello · Notion · ClickUp · Slack · Google Workspace (Docs, Sheets, Meet)
+
+### 🎨 Frontend
+
+* React.js · Tailwind CSS · HTML5 · CSS3
+
+### 🔧 Backend & APIs
+
+* Node.js · Express · Supabase · Firebase · PHP · CodeIgniter · Laravel
+
+### 🗄️ Databases & Infrastructure
+
+* PostgreSQL · MySQL · Supabase · Google Cloud · AWS · Azure · Netlify · Vercel
+
+### 🔐 Security & DevOps
+
+* Git · GitHub · Vulnerability Assessment & Penetration Testing (VAPT) · Incident Response Tools
+
+### 🤖 AI (Current Focus)
+
+* OpenAI APIs · Hugging Face · OpenRouter
+
 
 _“Software should serve people first—by being accessible, reliable, and transformative.”_
 
