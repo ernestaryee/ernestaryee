@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I’m a project manager and digital strategist with a deep background in **custom software development** across sectors like logistics, education, government, legal, nonprofit, and fitness. My mission? Build systems that **solve real problems** with **clarity, collaboration, and impact**.
+I am a project manager and digital strategist with a deep background in **custom software development** across sectors like logistics, education, government, legal, nonprofit, and fitness. My mission? Build systems that **solve real problems** with **clarity, collaboration, and impact**.
 
 ---
 
